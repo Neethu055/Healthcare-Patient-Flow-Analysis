@@ -1,9 +1,5 @@
 # 🏥 Healthcare Admissions & Patient Flow Analysis
 
-![Healthcare Dashboard Preview](images/powerbi_dashboard.png)
-
----
-
 ## 📌 Executive Summary
 This end-to-end healthcare analytics project analyzes hospital admission and patient flow data to identify operational inefficiencies, admission trends, department workload distribution, and patient experience metrics.  
 
@@ -61,23 +57,6 @@ This project addresses these challenges through structured data analysis and int
 - Gender distribution is balanced, ensuring demographic neutrality.  
 - Admission trends fluctuate across years, suggesting seasonal or operational impacts.  
 - Data reveals opportunities to redistribute workload across departments to reduce congestion.
-
----
-
-## 📁 Repository Structure
-Healthcare-Patient-Flow-Analysis/
-│
-├── dataset.csv
-├── SQL_queries.sql
-├── Excel_Dashboard.xlsx
-├── PowerBI_Dashboard.pbix
-├── Tableau_Dashboard.twbx
-├── images/
-│ ├── powerbi_dashboard.png
-│ ├── tableau_dashboard.png
-│ └── excel_dashboard.png
-└── README.md
-
 
 ---
 
